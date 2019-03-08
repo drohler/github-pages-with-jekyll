@@ -1,6 +1,9 @@
 ---
-title:  "D Rohler Blog"
-date:  2019-03-08
+
+title: "Your blog post title"
+
+date: 2019-03-08
+
 ---
 
 description: > # this means to ignore newlines until "baseurl:"
